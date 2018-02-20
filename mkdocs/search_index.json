@@ -1,0 +1,29 @@
+{
+    "docs": [
+        {
+            "location": "/",
+            "text": "Setting up mysql replication with symmetric\n\n\nFor quick start visit \nsymmetricds.org\n.\n\n\nCommands\n\n\n\n\ncp samples/corp* engines/\n - cp the sample file corp-001\n\n\n\n\nDML Statements\n\n\nLoad the corresponding DML files for the tables.\n\n\nVerify\n\n\nVerify the tables.\n\n\nSELECT * FROM TABLE;\n\n\n\n\n\n\nNOTE\n\nIt works with almost all markdown flavours (the below blank line matters).",
+            "title": "Home"
+        },
+        {
+            "location": "/#setting-up-mysql-replication-with-symmetric",
+            "text": "For quick start visit  symmetricds.org .",
+            "title": "Setting up mysql replication with symmetric"
+        },
+        {
+            "location": "/#commands",
+            "text": "cp samples/corp* engines/  - cp the sample file corp-001",
+            "title": "Commands"
+        },
+        {
+            "location": "/#dml-statements",
+            "text": "Load the corresponding DML files for the tables.",
+            "title": "DML Statements"
+        },
+        {
+            "location": "/#verify",
+            "text": "Verify the tables.  SELECT * FROM TABLE;   NOTE \nIt works with almost all markdown flavours (the below blank line matters).",
+            "title": "Verify"
+        }
+    ]
+}
